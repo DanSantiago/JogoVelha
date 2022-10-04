@@ -42,6 +42,8 @@ OBS: O algoritmo foi gerado no ambiente Linux e podem ocorrer erros de compatibi
 
 Basta baixar a pasta do projeto, compilar o arquivo "velha.c" com seu compilador de preferência e executar o arquivo gerado.
 
+OBS: Não é necessário modificar nenhuma variável no algoritmo antes de executar, já está tudo configurado como deveria de ser.
+
 # Autor
 
 Daniel Santiago da Silva
